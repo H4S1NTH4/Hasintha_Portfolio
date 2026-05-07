@@ -1,0 +1,146 @@
+{
+  "profile": {
+    "name": "Hasintha Dilshan",
+    "title": "Associate Software Engineer",
+    "location": "Malabe, Colombo, Sri Lanka",
+    "phone": "+94 70 555 9052",
+    "email": "jmhdilsha@gmail.com",
+    "github": "https://github.com/H4S1NTH4",
+    "linkedin": "https://www.linkedin.com/in/hasintha-dilshan-ab60a8287/"
+  },
+  "about": {
+    "headline": "Software engineer building cyber-physical systems, AI agents, and resilient backend platforms.",
+    "summary": "Associate Software Engineer with experience at Entgra and CodeGen International, focused on Java backend systems, IoT device communication, AI-powered ERP workflows, and software-hardware integration. Hasintha is especially interested in Java, Spring Boot, Go, Next.js, IoT, ROS 2, agentic AI, and LSTM models for behavior-aware systems.",
+    "interests": ["Java", "Spring Boot", "Go", "Next.js", "IoT", "ROS 2", "LSTM models", "Agentic AI", "Kubernetes"]
+  },
+  "education": {
+    "degree": "BSc (Hons) in IT Specialising in Software Engineering",
+    "institution": "Sri Lanka Institute of Information Technology",
+    "status": "Year 4 Semester 2",
+    "gpa": "3.59"
+  },
+  "career_plan": [
+    {
+      "phase": "Current Direction",
+      "focus": "Become a stronger backend engineer for enterprise IoT systems",
+      "goals": [
+        "Build depth in Java, Spring Boot, WSO2-based services, and server-to-device communication protocols through current Entgra work",
+        "Improve reliability, security, logging, and troubleshooting skills for real device communication and billing automation workflows",
+        "Use production engineering discipline from CodeGen R&D and Entgra to move beyond project-level coding into maintainable platform development"
+      ]
+    },
+    {
+      "phase": "Short Term",
+      "focus": "Connect IoT, full-stack delivery, and AI-assisted product development",
+      "goals": [
+        "Convert software-hardware experience from smart kiosks, hydroponics, freezer monitoring, and dairy-farm systems into stronger IoT product architecture skills",
+        "Grow Next.js, React, Docker, Kubernetes, and CI/CD practice so embedded data can be delivered through polished, deployable web platforms",
+        "Continue developing agentic AI workflows with Python, LangGraph-style orchestration, and LIA-like assistant patterns"
+      ]
+    },
+    {
+      "phase": "Medium Term",
+      "focus": "Specialize in intelligent cyber-physical systems",
+      "goals": [
+        "Develop Go, ROS 2, Kubernetes, and event-driven system design for scalable robotics, automation, and mechatronics-adjacent platforms",
+        "Apply LSTM models, keystroke dynamics, reinforcement learning, and behavior analytics from ongoing research to real-world monitoring and authorization problems",
+        "Publish and present project outcomes through GitHub, LinkedIn, university research, and engineering case studies"
+      ]
+    },
+    {
+      "phase": "Long Term",
+      "focus": "Grow into a technical lead for AI + IoT platform engineering",
+      "goals": [
+        "Lead cross-functional teams that combine backend engineering, embedded systems, AI agents, and client-facing solution engineering",
+        "Design reusable platforms for intelligent automation in domains such as device management, smart facilities, agriculture, retail kiosks, and industrial monitoring",
+        "Mentor engineers while continuing research-driven learning in AI, cyber-physical systems, and cloud-native architecture"
+      ]
+    }
+  ],
+  "cv_content": {
+    "summary": "Associate Software Engineer at Entgra, previously Associate Software Engineer and Intern at CodeGen International. Experienced in Java, Python, JavaScript, React, Spring Boot, Arduino/C++, Docker, Kubernetes, and Agentic AI.",
+    "experience": [
+      {
+        "company": "Entgra",
+        "role": "Associate Software Engineer",
+        "period": "February 2026 - Present",
+        "highlights": ["Java-based server backend work for IoT device communication protocols", "WSO2 services stack for electrical meter communication and billing automation"]
+      },
+      {
+        "company": "CodeGen International",
+        "role": "Associate Software Engineer",
+        "period": "July 2025 - February 2026",
+        "highlights": ["Research and Development contributor across client delivery and research projects", "Built with Java, Python, JavaScript, and React", "Worked on AI-powered ERP and agentic solutions, client communication, and sales management", "Integrated software and hardware for improved system functionality"]
+      },
+      {
+        "company": "CodeGen International",
+        "role": "Software Engineering Intern",
+        "period": "January 2025 - July 2025",
+        "highlights": ["Worked across the lifecycle of an AI-powered Smart Kiosk for One World Duty-Free", "Contributed full-stack and hardware integration work", "Participated in live client meetings and technical updates"]
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI Agentic Development",
+        "stack": "LangGraph, Python, LLM orchestration",
+        "description": "AI agentic applications for flight booking and hotel reservations using CodeGen's LIA platform."
+      },
+      {
+        "name": "Automated Hydroponic Fodder System and Freezer Room Monitoring",
+        "stack": "C++, IoT, Arduino, embedded systems",
+        "description": "IoT-driven watering, greenhouse environment control, real-time sensor dashboards, freezer room temperature monitoring, motion sensing, and emergency backup handling."
+      },
+      {
+        "name": "Dairy Farm Management System",
+        "stack": "MongoDB, Express, React, Node, IoT, C++, Arduino",
+        "description": "Production management, automated process startup, real-time process monitoring, inventory management, and smart storage monitoring."
+      },
+      {
+        "name": "Food Delivery Microservices",
+        "stack": "Spring Boot, Java, Next.js, Kubernetes, Docker, CI/CD",
+        "description": "Distributed systems project using OpenFeign, Spring Cloud discovery, Minikube deployment, DevOps, and CI/CD practices."
+      },
+      {
+        "name": "Ongoing Research",
+        "stack": "Go, Java, Python, Agentic AI, Deep Learning, Kubernetes",
+        "description": "Student grading system with integrated IDE behavior tracking, continuous user authorization with keystroke dynamics, reinforcement learning, and cognitive-level analysis."
+      }
+    ]
+  },
+  "achievements": [
+    "Dean's List Award 2022 (Y1S1) - 3.86 GPA",
+    "Half Semester Fee Scholarship Award 2022 (Y1S1)",
+    "Dean's List Award 2023 (Y1S2) - 3.80 GPA",
+    "Half Semester Fee Scholarship Award 2023 (Y1S2)",
+    "Dean's List Award 2024 (Y2S2) - 3.84 GPA",
+    "Half Semester Fee Scholarship Award 2024 (Y2S2)",
+    "SLIIT Rotaract badminton men's doubles champion"
+  ],
+  "certificates": [
+    {
+      "title": "Dean's List Certificate - Year 1 Semester 1",
+      "issuer": "SLIIT",
+      "firebase_url": "https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/certificates%2F1st-year-1st-semester-deans-list-certificate.jpeg?alt=media",
+      "local_asset": "/certificates/1st year 1st semester deans lsit certificate.jpeg"
+    },
+    {
+      "title": "Dean's List Certificate - Year 1 Semester 2",
+      "issuer": "SLIIT",
+      "firebase_url": "https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/certificates%2F1st-year-2nd-semester-deans-list-certificate.jpeg?alt=media",
+      "local_asset": "/certificates/1st year 2nd semester deans lsit certificate.jpeg"
+    },
+    {
+      "title": "Dean's List Certificate - Year 2 Semester 2",
+      "issuer": "SLIIT",
+      "firebase_url": "https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/certificates%2F2nd-year-2nd-semester-deans-list-certificate.jpeg?alt=media",
+      "local_asset": "/certificates/2st year 2nd semester deans lsit certificate.jpeg"
+    },
+    {
+      "title": "Badminton Men's Doubles Champion",
+      "issuer": "SLIIT Rotaract",
+      "firebase_url": "https://firebasestorage.googleapis.com/v0/b/YOUR_BUCKET/o/certificates%2Fsliit-rotaract-badminton-mens-doubles-champion.jpeg?alt=media",
+      "local_asset": "/certificates/SLIIT Rotaract badminton mens doubles champion.jpeg"
+    }
+  ],
+  "cv_download_url": "/cv/J M Hasintha Dilshan CV.pdf"
+}
